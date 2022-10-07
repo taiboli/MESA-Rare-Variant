@@ -1,2 +1,3 @@
 # MESA-Rare-Variant
-Scripts to reproduce analysis in MESA Multiomic Rare Variant Paper
+Data to reproduce analysis in MESA Multiomic Rare Variant Paper
+Most txt files have been gzipped
